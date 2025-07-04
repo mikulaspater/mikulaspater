@@ -1,2 +1,2 @@
-Welcome, traveller
+Welcome, traveller.
 This is my github.
